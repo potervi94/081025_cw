@@ -1,0 +1,2 @@
+--СТВОРЕННЯ
+CREATE DATABASE ANIMALS
